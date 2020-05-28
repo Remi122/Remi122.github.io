@@ -1,0 +1,72 @@
+body
+{
+    margin: 0;
+}
+
+.menu
+{
+  background-color:#white
+}
+
+#navigation
+{
+  color: #252734;
+}
+
+.fond
+{
+  color: #ffffff;
+  padding: 30px;
+  font-style: Arial;
+  background-color:#252734
+}
+
+h2
+{
+    color : rgb(255, 156, 0);
+
+}
+
+h1
+{
+    color: #ffffff;
+    font-size: 50;
+
+}
+
+
+.texte
+{
+    padding-top: 40px;
+    margin-top: 0;
+}
+
+#phrase
+{
+    font-style: Arial;
+    background-color: rgba(35, 4, 35, 0.459);
+    width: fit-content;
+}
+
+.fond1
+{
+    width: 100%;
+    margin-top: 0 ;
+    height: 50%;
+    background-color: #fffff
+}
+
+.titre2
+{
+      text-align: center;
+}
+
+.fond6
+{
+  background-color:#252734
+}
+
+.margep
+{
+  padding: 30px;
+}
