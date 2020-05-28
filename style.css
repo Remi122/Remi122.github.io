@@ -64,7 +64,7 @@ h1
 
 .titre2
 {
-      text-align: center;
+  text-align: center;
 }
 
 .fond6
@@ -127,7 +127,6 @@ h1
  position: absolute;
  top: 580px;
  left: 500px;
-
 }
 
 .atol
@@ -135,7 +134,6 @@ h1
  position: absolute;
  top: 580px;
  left: 920px;
-
 }
 
 .linkedin
@@ -143,5 +141,24 @@ h1
  position: absolute;
  top: 150px;
  left: 250px;
+}
 
+.paragraphe2
+{
+  padding: 30px;
+  color: #ffffff;
+}
+
+.ads
+{
+ position: absolute;
+ top: 850px;
+ left: 950px;
+}
+
+.PR
+{
+ position: absolute;
+ top: 850px;
+ left: 800px;
 }
