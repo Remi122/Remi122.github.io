@@ -95,7 +95,7 @@ h1
 
 #projets1 li
 {
-  margin: 30;
+  margin: 0;
   text-align:center;
   color: black;
   display: inline;
@@ -105,7 +105,7 @@ h1
 
 #texte6 li
 {
-  margin: 80;
+  margin: 0;
   text-align:center;
   color: #ff9c00;
   display: inline;
@@ -116,7 +116,7 @@ h1
 .tassimo
 {
  position: absolute;
- top: 570px;
+ top: 610px;
  left: 120px;
 
 }
@@ -124,7 +124,7 @@ h1
 .winamax
 {
  position: absolute;
- top: 580px;
+ top: 610px;
  left: 500px;
 
 }
@@ -132,7 +132,7 @@ h1
 .atol
 {
  position: absolute;
- top: 580px;
+ top: 610px;
  left: 920px;
 
 }
@@ -154,7 +154,7 @@ h1
 .ads
 {
  position: absolute;
- top: 850px;
+ top: 900px;
  left: 950px;
 
 }
@@ -162,7 +162,7 @@ h1
 .PR
 {
  position: absolute;
- top: 850px;
+ top: 900px;
  left: 800px;
 
 }
