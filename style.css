@@ -3,14 +3,20 @@ body
     margin: 0;
 }
 
-.menu
-{
-  background-color:#white
-}
-
 #navigation
 {
-  color: #252734;
+	padding: 0;
+  margin: 3;
+  text-align:center;
+
+}
+
+#navigation li
+{
+  color: #d0a81d;
+  display: inline;
+	list-style: none;
+  padding: 30px;
 }
 
 .fond
@@ -69,4 +75,73 @@ h1
 .margep
 {
   padding: 30px;
+}
+
+
+.texte6
+{
+  text-align: left;
+  border-bottom:1px solid white;
+}
+
+
+.profil
+{
+ box-shadow : 8px 8px 5px black;
+ position: absolute;
+ top: 45px;
+ left: 900px;
+
+}
+
+#projets1 li
+{
+  margin: 30;
+  text-align:center;
+  color: black;
+  display: inline;
+	list-style: none;
+  padding: 50px;
+}
+
+#texte6 li
+{
+  margin: 80;
+  text-align:center;
+  color: #ff9c00;
+  display: inline;
+	list-style: none;
+  padding: 250px;
+}
+
+.tassimo
+{
+ position: absolute;
+ top: 570px;
+ left: 120px;
+
+}
+
+.winamax
+{
+ position: absolute;
+ top: 580px;
+ left: 500px;
+
+}
+
+.atol
+{
+ position: absolute;
+ top: 580px;
+ left: 920px;
+
+}
+
+.linkedin
+{
+ position: absolute;
+ top: 150px;
+ left: 250px;
+
 }
