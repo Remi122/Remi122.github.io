@@ -8,7 +8,6 @@ body
 	padding: 0;
   margin: 3;
   text-align:center;
-
 }
 
 #navigation li
@@ -127,6 +126,7 @@ h1
  position: absolute;
  top: 580px;
  left: 500px;
+
 }
 
 .atol
@@ -134,13 +134,15 @@ h1
  position: absolute;
  top: 580px;
  left: 920px;
+
 }
 
 .linkedin
 {
  position: absolute;
  top: 150px;
- left: 250px;
+ left: 300px;
+
 }
 
 .paragraphe2
@@ -154,6 +156,7 @@ h1
  position: absolute;
  top: 850px;
  left: 950px;
+
 }
 
 .PR
@@ -161,4 +164,5 @@ h1
  position: absolute;
  top: 850px;
  left: 800px;
+
 }
