@@ -68,7 +68,9 @@ h1
 
 .fond6
 {
-  background-color:#252734
+  background-color:#252734;
+  color: #ffffff;
+
 }
 
 .margep
@@ -164,5 +166,29 @@ h1
  position: absolute;
  top: 900px;
  left: 800px;
+
+}
+
+.googlea
+{
+ position: absolute;
+ top: 1050px;
+ left: 770px;
+
+}
+
+.ps
+{
+ position: absolute;
+ top: 1050px;
+ left: 925px;
+
+}
+
+.balsamiq
+{
+ position: absolute;
+ top: 1200px;
+ left: 825px;
 
 }
